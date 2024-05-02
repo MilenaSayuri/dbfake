@@ -32,6 +32,9 @@
       },
       {
         "codigo": 11, "nome": "Pyramid Head", "valor": 450, "descritivo": "Feito em resina Pintado a mão Altura aproximada: 18cm", "valorPromo": 90, "estoque": 10, "destaque": 1
+      },
+    {
+        "codigo": 12, "nome": "Produto Teste", "valor": 999, "descritivo": "Feito em ???", "valorPromo": 90, "estoque": 10, "destaque": 1
       }
   ]
 }
